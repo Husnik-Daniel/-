@@ -1,0 +1,31 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+th {
+    background-color: #c91212;
+}
+body{
+    background-color: gray;
+}
+img{
+    align-content: center;
+} 
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+
+}
+
+
+    

@@ -1,0 +1,25 @@
+.karta {
+      background-color: darkorange;
+      margin: 10px; 
+      border-radius: 5px ;
+      width: 300px;
+}
+
+.kontejner-flex{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    justify-content:space-around;
+}
+
+.karta img{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    object-fit: cover;
+    height: 150px;
+}
+
+.obsah-karty {
+    display: flex;
+    justify-content: center;
+}
